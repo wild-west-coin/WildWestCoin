@@ -1,0 +1,30 @@
+[center][img]http://i.imgur.com/aVuh8uB.png[/img][/center]
+
+[center]WildWest Coin is an X11 algo coin which provides resistance to ASIC miners and grants the benefits of lower temperatures and power bills.
+
+Proof of Work ends at block 10,000 turning 100% PoS with 15% interest
+
+[img]http://wildwestcoin.com/img/wallet.png[/img]
+Wallet Github - https://github.com/wild-west-coin/WildWestCoin
+Windows - www.wildwestcoin.com/wildwestcoin-qt-win.zip
+Linux - 
+
+MAC - TBA
+
+[img]http://wildwestcoin.com/img/exchanges.png[/img]
+
+TBA
+
+[img]http://wildwestcoin.com/img/pools.png[/img]
+
+Dedicatedpools - TBA
+
+SuchPool.sw - http://west.suchpool.pw/  [u]FEE 2%[/u]
+
+[color=red]PLEASE MAKE SURE YOU ARE USING THE CUSTOM SGMINERS TO MINE WILDWESTCOIN.
+THIS COIN USES THE X11 ALGORITHM. CHECK OUR GETTING STARTED PAGE FOR DOWNLOADS!
+[color=black]See our X11 mining guide at http://suchpool.pw/docs/gettingstartedX11.pdf[/color][/color]
+
+
+
+[/center]
